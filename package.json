@@ -1,0 +1,23 @@
+{
+  "name": "checklistforfullstack",
+  "version": "1.0.0",
+  "description": "## はじめに 日本のWeb開発業界で「フルスタックエンジニア」になるために必要な知識を、個人的経験からまとめました。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zaramme@github.com/zaramme/checklistforfullstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaramme/checklistforfullstack/issues"
+  },
+  "homepage": "https://github.com/zaramme/checklistforfullstack#readme",
+  "dependencies": {
+    "zenn": "^0.9.14",
+    "zenn-cli": "^0.1.34"
+  }
+}
